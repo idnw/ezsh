@@ -1,0 +1,2 @@
+# ezsh
+A easy shell.
